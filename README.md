@@ -2,7 +2,7 @@
 ## Stranger Things LED Arduino Code
 
 
-After watching Stranger Things earlier this year, I was obsessed with the lights! I know, I'm two years too late to the game, but better late than never! I set these lights up for a Halloween party this year and they were a big hit. I spent too much time on them to take them off my wall at this point, so they will be up for a while. 
+After watching Stranger Things earlier this year, I became obsessed with the lights! I know, I'm two years too late to the game, but better late than never! I set these lights up for a Halloween party this year and they were a big hit. I spent too much time on them to take them off my wall at this point, so they will be up for a while. 
 
 I watched a couple of [YouTube videos](https://www.youtube.com/watch?v=00Jydc-EVPM) of people programming their own lights and even found a super helpful [instructional online.](https://www.instructables.com/id/Arduino-Based-Stranger-Things-Lights/)
 
@@ -20,4 +20,5 @@ I had never used an Arduino before and still fairly new to coding, but with a li
 ## Additional Notes:
   *The RGB colors are in the order of GRB in the code
   *To create new spelled words, copy/paste the word functions at the bottom and add a new if statement to the STRANGE function.
+  * The time spacing between the words is about five minutes
 
