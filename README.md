@@ -1,5 +1,5 @@
 # StrangerThingsLED
-## Stranger Things LED Arduino Code
+## Stranger Things LED Lights Arduino Code
 
 
 After watching Stranger Things earlier this year, I became obsessed with the lights! I know, I'm two years too late to the game, but better late than never! I set these lights up for a Halloween party this year and they were a big hit. I spent too much time on them to take them off my wall at this point, so they will be up for a while. 
